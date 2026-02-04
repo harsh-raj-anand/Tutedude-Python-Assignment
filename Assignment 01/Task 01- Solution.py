@@ -13,4 +13,5 @@ else:
 print("Addition:", add)
 print("Subtraction:", sub)
 print("Multiplication:", mul)
-print("Division:", div)
+
+print("Division:", round(div,2))
