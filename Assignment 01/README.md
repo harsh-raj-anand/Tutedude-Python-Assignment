@@ -1,6 +1,6 @@
 # Basic Python Programs
 
-This repository contains simple Python programs created as part of **Assignment 1 – Module 2: Basic Python Concepts**.
+This repository contains simple Python programs created as part of **Assignment 01 – Module 2: Basic Python Concepts**.
 
 ## Programs Included
 
